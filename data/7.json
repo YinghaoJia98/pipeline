@@ -1,0 +1,36 @@
+{
+    "positioning_accuracy": {
+        "theta_stopped_vel": 0.2, 
+        "xy_goal_tolerance": 0.1, 
+        "trans_stopped_vel": 0.2, 
+        "yaw_goal_tolerance": 0.1
+    }, 
+    "obstacle_height": {
+        "global_max_obstacle_height": 0.5, 
+        "local_min_obstacle_height": -0.2, 
+        "global_min_obstacle_height": -0.2, 
+        "local_max_obstacle_height": 0.5
+    }, 
+    "order": 7, 
+    "robot_pose": {
+        "pos_z": 0.23972209656101567, 
+        "pos_x": 6.3790205632395045, 
+        "pos_y": -17.43810011383664, 
+        "ori_x": 0.008605179563209948, 
+        "ori_y": 0.008283727817306366, 
+        "ori_z": -0.703968345690625, 
+        "ori_w": 0.7101309027240952
+    }, 
+    "option": {
+        "visual_climbing_stairs": false, 
+        "stair": false, 
+        "high_speed": false, 
+        "autocharge": false, 
+        "observer_avoidance": true, 
+        "autonomous_gait_switching": false, 
+        "back": false, 
+        "low_speed": false, 
+        "stair_two": false, 
+        "stop_barrier": false
+    }
+}
